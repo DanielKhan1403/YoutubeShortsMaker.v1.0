@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Виртуальное окружение
+venv/
+.env
+*.env
+
+# OS файлы
+.DS_Store
+Thumbs.db
+
+# Видео файлы
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+shorts_videos/
+
+# Whisper модели
+whisper_models/
+.cache/
+
+# FFmpeg и другие зависимости
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE/Editor файлы
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
